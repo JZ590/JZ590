@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Jerry 👋
 
-<!--
-**JZ590/JZ590** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I connect people working on AI with teams tackling interesting problems.
 
-Here are some ideas to get you started:
+Based in Singapore, I'm exploring the research and open-source
+communities behind reasoning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current interests
+
+- **LLM post-training** — reinforcement learning, reward models,
+  and evaluation
+- **AI for mathematics** — mathematical reasoning, Lean,
+  and automated theorem proving
+- **Research ecosystems** — understanding how papers, projects,
+  and teams connect
+
+### What I'm exploring here
+
+Building a clearer picture of the field through paper notes,
+open-source projects, and conversations with researchers.
+
+### Let's connect
+
+If you work on reasoning, post-training, or AI4Math,
+I'd love to learn what you're building.
+
+[LinkedIn](https://www.linkedin.com/in/jerry-zhang-635b47126/)
